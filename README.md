@@ -1,21 +1,15 @@
 # Helper - The best utility for MTA San Andreas
 ## Discord -> [Helper Community](https://discord.gg/7RZTmKjSHy)
 
-New version of the Helper program!
-
-## What's new:
-- Completely new UI, in a dashboard style.
-- New crosshair display feature.
-- Ability to edit latency (ms) in the Litefoot macro.
-- Tab with multiple languages - English, Polish, Portuguese, Turkish.
-
-## Fixed:
-
-- No Recoil Macro.
-- Latency in Fast Run Macro.
-
 # Preview:
-<img width="765" height="516" alt="Macros" src="https://github.com/user-attachments/assets/9f4120d8-825e-4a04-bd1e-e2d1e995c20b" /> <img width="765" height="516" alt="Crosshair" src="https://github.com/user-attachments/assets/94e71dbc-0244-4708-ba7d-6e969309bbb0" /> <img width="765" height="516" alt="Languages" src="https://github.com/user-attachments/assets/a1930edc-d955-4a98-a483-6ea9cffbff20" />
+<img width="764" height="477" alt="Helper1" src="https://github.com/user-attachments/assets/8ff277d0-fa55-43b7-a8b7-8177695451d2" />
+<img width="764" height="477" alt="Helper2" src="https://github.com/user-attachments/assets/2de99fb8-5c86-45fc-8c6f-ca405910217b" />
+<img width="764" height="477" alt="Helper3" src="https://github.com/user-attachments/assets/0f9b0170-3a37-4076-a1a0-517156ea28c2" />
+
+
+
+
+
 
 
 
