@@ -1,4 +1,5 @@
-# So basically, it's an app for launching and setting up macros for MTA (Multi Theft Auto San Andreas). It comes with stuff like Litefoot Macro, Fast Run, No Recoil, a custom crosshair overlay, and Jitter Aim. I coded the whole thing myself from scratch (sbmxlly, aka molly/mxlly). It's 100% virus-free.
+# Latest release -> Helper 4.0 (v1.1)
+
 ## [Helper's Discord Community](https://discord.gg/7RZTmKjSHy)
 
 # Preview:
